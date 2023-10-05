@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Spencer Althouse",
+            "title": "17 Best Canceled TV Shows To Binge-Watch",
+            "description": "I'll never forgive Hollywood for canceling American Auto and Pushing Daisies.",
+            "url": "https://www.buzzfeed.com/spenceralthouse/the-best-canceled-tv-shows",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/29/16/enhanced/494284df465e/original-920-1696004224-2.jpg?crop=1996:1045;0,2%26downsize=1250:*",
+            "publishedAt": "2023-09-30T19:07:17.1563551Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": null,
+            "title": "Insight Innovation: „The End of Reality“: KI steht vor Durchbruch in bewegten Bildern",
+            "description": "Künstliche Intelligenz kann bislang vor allem Texte und Bilder erschaffen. US-Firmen setzen jetzt neue Maßstäbe bei Videos - mit Auswirkungen auf soziale Netzwerke und Hollywood.",
+            "url": "https://www.handelsblatt.com/technik/ki/insight-innovation-the-end-of-reality-ki-steht-vor-durchbruch-in-bewegten-bildern/29411516.html",
+            "urlToImage": null,
+            "publishedAt": "2023-09-30T16:00:00+00:00",
+            "content": "Künstliche Intelligenz kann bislang vor allem Texte und Bilder erschaffen. US-Firmen setzen jetzt neue Maßstäbe bei Videos - mit Auswirkungen auf soziale Netzwerke und Hollywood."
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Amol Sharma, Joe Flint",
+            "title": "Peak TV Is Over. A Different Hollywood Is Coming.",
+            "description": "The end of the writers’ strike marks a new era. Studios and streamers are likely to order fewer TV shows. Consolidation could follow.",
+            "url": "https://www.wsj.com/business/media/hollywood-writers-guild-strike-peak-tv-ai-e29b6278?mod=hp_lead_pos7",
+            "urlToImage": "https://images.wsj.net/im-860686/social",
+            "publishedAt": "2023-09-30T03:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "TIME Staff",
+            "title": "These Latino Leaders Are Reshaping Their Industries–and the Country",
+            "description": "TIME is featuring prominent U.S.-based Latino leaders across industries who are making an impact from Hollywood to Washington and in between.",
+            "url": "http://time.com/6315421/america-latin-leaders-2023/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/09/LatinoLeaders_feat.jpg?quality=85",
+            "publishedAt": "2023-09-21T12:00:00Z",
+            "content": "Over the next few months, TIME will be featuring prominent U.S.-based Latino leaders across industries who are making an impact on Hollywood, Washington, D.C., and everywhere in between.\r\nLatinoswho … [+17199 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Tim Baysinger",
+            "title": "Hollywood shuts down as actors join writers on strike",
+            "description": "A work stoppage by thousands of on-screen performers is expected to bring the industry to a halt.",
+            "url": "https://www.axios.com/2023/07/13/sag-aftra-wga-strike-hollywood",
+            "urlToImage": "https://images.axios.com/BsO_He3gjjKmpAfFwgqtLL3nOm8=/0x0:4000x2250/1366x768/2023/06/30/1688149702453.jpg",
+            "publishedAt": "2023-07-13T17:42:29Z",
+            "content": "SAG-AFTRA, the union that represents Hollywood actors, will strike for the first time since 1980 after failing to reach a new labor deal with the major studios.\r\nWhy it matters: The actors' strike, w… [+4148 chars]"
+        }
+    ]
+}
